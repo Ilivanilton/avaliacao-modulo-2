@@ -1,11 +1,6 @@
 # Mural dos alunos do módulo 2 - Git/GitHub
 Um projeto de mural para os participantes do curso de Git e GtHub contribuirem aplicando os conceitos aprendidos no curso.
 
-## Veja o mural
-
-[http://brorlandi.github.io/GitTrainingWall/](http://brorlandi.github.io/GitTrainingWall/)
-
-
 ## Sobre Pull Requests
 
 Lembre-se que sua PR deve ter apenas 1 arquivo alterado que é o arquivo correspondente a adição do seu usuário ao mural.
